@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 package src;
 
+=======
+>>>>>>> e0860ed1c0f52556e49c641b0d7cb04ccaf5729a
 public class Triangle {
     double base;
     double height;
