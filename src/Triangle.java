@@ -1,3 +1,5 @@
+package src;
+
 public class Triangle {
     double base;
     double height;
